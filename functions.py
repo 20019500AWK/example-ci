@@ -8,4 +8,4 @@ def multiply(a, b):
     return a * b
 
 def convert_fahrenheiht_to_celsius(fahrenheit):
-    return multiply(subtract(fahrenheit, 32), (5 / 9))
+    return multiply(subtract(fahrenheit, 32), 5 / 9)
