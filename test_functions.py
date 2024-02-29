@@ -7,7 +7,7 @@ def test_add():
     assert add('space', 'ship') == 'spaceship'
 
 def test_subtract():
-   assert subtract(2, 3) == -1
+    assert subtract(2, 3) == -1
 
 def test_multiply():
     assert multiply(2, 4) == 8   
